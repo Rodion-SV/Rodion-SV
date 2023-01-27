@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rodion-SV
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning swift.
-- 📫 How to reach me https://www.linkedin.com/in/rodion-samoilov/
+- 🌱 I’m currently learning swift at coursera and leetcode.
 
 <!---
 Rodion-SV/Rodion-SV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
