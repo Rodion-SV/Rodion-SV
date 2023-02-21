@@ -1,5 +1,5 @@
 Telegram:
-t.me/rodion_vs
+-t.me/rodion_vs
 - 👀 I’m interested in software engineering.
 
 <!---
